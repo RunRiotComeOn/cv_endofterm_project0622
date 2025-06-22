@@ -1,4 +1,4 @@
-# 3D Gaussian Splatting 实验
+# 任务 2：基于 3D Gaussian Splatting 的物体重建和新视图合成
 
 本仓库包含了“基于 3D Gaussian Splatting 的物体重建和新视图合成”项目的实现和实验结果。实验遵循任务 2 的要求，包括物体重建、新视图合成以及与 NeRF 方法的性能比较。本实验使用官方 [3D Gaussian Splatting 代码库](https://github.com/graphdeco-inria/gaussian-splatting) 和 COLMAP 进行相机参数估计。
 
