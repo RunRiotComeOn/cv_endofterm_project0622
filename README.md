@@ -2,5 +2,5 @@
 This is our cv end of term project. Specific READMEs are under the folder of `task1` and `task2`.
 
 contributors:
-- https://github.com/RunRiotComeOn
-- https://github.com/spoil-ed
+- [Yixu Huang](https://github.com/RunRiotComeOn)
+- [Xinglei Yu](https://github.com/spoil-ed)
